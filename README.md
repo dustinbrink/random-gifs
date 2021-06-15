@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Random Gif App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This web app loads random gifs from Giphy API, via your search term. This project was started as a way to practice custom React Hooks.
 
 ## Available Scripts
 
